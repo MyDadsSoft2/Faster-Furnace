@@ -26,4 +26,6 @@ You can fully control how fast furnaces run inside the `config.yml`.
 Example:
 
 ```yml
-speed-multiplier: 2.0
+furnace-speed: 3.0
+smoker-speed: 3.0
+blast-furnace-speed: 4.0
